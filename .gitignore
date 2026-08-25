@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables — never commit real secrets
+.env
+*/.env
+
+# Build output
+dist/
+*/dist/
+build/
+
+# Database files
+*.sqlite
+*.sqlite3
+backend/saanscare.sqlite
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Misc
+.cache/
+.npm/
