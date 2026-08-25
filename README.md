@@ -111,7 +111,7 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
 
 | SaansCare Admin Report | SaansCare GOV Report |
 |---|---|
-| ![Admin Panel](./img/a21.png) | ![Light Mode](./img/a22.png) |
+| ![Admin Panel](./img/a21.png) | ![Light Mode](./img/a23.png) |
 
 ## Features
 
@@ -122,8 +122,8 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
 - Nearby markets & rest stops ranked by live air quality
 
 ### Government / EPA Portal
-- City-wide, anonymized district risk exposure — bar charts, trend comparisons
-- Live monitoring device network — click any device for its activity history & uptime
+- City-wide, anonymized district risk exposure, bar charts, trend comparisons
+- Live monitoring device network - click any device for its activity history & uptime
 - Safe City camera links at real Lahore landmarks, with reference footage
 - Road-segment pollution & congestion tracking, aggregated per road
 - Vehicle registry auto-flagged for overdue maintenance, traceable to the owner
