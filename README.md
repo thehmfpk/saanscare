@@ -1,16 +1,25 @@
+
 <div align="center">
 
-<a href="https://youtu.be/z5LIsK0SFXU?si=NhtpJVr4jv0DgZLB" target="_blank">
-  <img src="https://img.shields.io/badge/Smart%20City%20Hackathon-Lahore%202026-22C55E?style=for-the-badge" alt="Smart City Hackathon Lahore 2026 badge">
-</a>
+  <!-- SaansCare Logo -->
+  <img src="./img/saanscare logo.png" alt="SaansCare Logo" width="180">
 
-# SaansCare
+  <br>
 
-### Breathe Better. Live Better.
+  <!-- Smart City Hackathon Badge -->
+  <a href="https://youtu.be/z5LIsK0SFXU?si=NhtpJVr4jv0DgZLB" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Smart%20City%20Hackathon-Lahore%202026-22C55E?style=for-the-badge"
+      alt="Smart City Hackathon Lahore 2026"
+    >
+  </a>
 
-**An AI-powered air quality monitoring and public health dashboard for Lahore**
+</div>
+<div align="center">
+  
+<br> 
 
-[Live Demo](https://youtu.be/z5LIsK0SFXU?si=NhtpJVr4jv0DgZLB) 
+**An AI-powered air quality monitoring and public health dashboard for Lahore** 
 
 </div>
 
@@ -60,17 +69,49 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
   AI forecast card, Admin panel, and light-mode of any one of them.
 -->
 
-| Landing Page | Resident Dashboard |
+| Main Page | Features |
 |---|---|
-| ![Landing](./screenshots/landing.png) | ![Resident Dashboard](./screenshots/resident-dashboard.png) |
+| ![Landing](./img/a1.png) | ![Resident Dashboard](./img/a2.png) |
 
 | Gov / EPA Dashboard | AI-Predicted Forecast |
 |---|---|
-| ![Gov Dashboard](./screenshots/gov-dashboard.png) | ![AI Forecast](./screenshots/forecast.png) |
+| ![Gov Dashboard](./img/a3.png) | ![AI Forecast](./img/a4.png) |
 
 | Admin Panel | Light Mode |
 |---|---|
-| ![Admin Panel](./screenshots/admin-panel.png) | ![Light Mode](./screenshots/light-mode.png) |
+| ![Admin Panel](./img/a5.png) | ![Light Mode](./img/a6.png) |
+
+| Admin Panel | Light Mode |
+|---|---|
+| ![Admin Panel](./img/a7.png) | ![Light Mode](./img/a8.png) |
+
+| Admin Panel | Light Mode |
+|---|---|
+| ![Admin Panel](./img/a9.png) | ![Light Mode](./img/a10.png) |
+
+| Admin Panel | Light Mode |
+|---|---|
+| ![Admin Panel](./img/a11.png) | ![Light Mode](./img/a12.png) |
+
+| Admin Panel | Light Mode |
+|---|---|
+| ![Admin Panel](./img/a13.png) | ![Light Mode](./img/a14.png) |
+
+| Admin Panel | Light Mode |
+|---|---|
+| ![Admin Panel](./img/a15.png) | ![Light Mode](./img/a16.png) |
+
+| Admin Panel | Light Mode |
+|---|---|
+| ![Admin Panel](./img/a17.png) | ![Light Mode](./img/a18.png) |
+
+| Admin Panel | Light Mode |
+|---|---|
+| ![Admin Panel](./img/a19.png) | ![Light Mode](./img/a20.png) |
+
+| Admin Panel | Light Mode |
+|---|---|
+| ![Admin Panel](./img/a21.png) | ![Light Mode](./img/a22.png) |
 
 ## Features
 
@@ -89,7 +130,7 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
 - One-click PDF report generation with a SaansCare letterhead
 
 ### Administrator Panel
-- Full account directory — every resident and official, structured and searchable
+- Full account directory, every resident and official, structured and searchable
 - Edit or remove accounts; provision new Gov officials directly (no open registration for that role)
 - Scoped, confirm-gated data resets (Gov data / User data / AI forecasts / everything)
 - Platform-wide statistics and its own PDF report
