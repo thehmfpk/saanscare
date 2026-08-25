@@ -97,19 +97,19 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
 |---|---|
 | ![Admin Panel](./img/a13.png) | ![Light Mode](./img/a14.png) |
 
-| Resident Dashboard | Light Mode |
+| Resident Dashboard | AI-Predicted 12-Month Outlook |
 |---|---|
 | ![Admin Panel](./img/a15.png) | ![Light Mode](./img/a16.png) |
 
-| Admin Panel | Light Mode |
+| Nearby Markets & Rest Stops | Administrator Logic |
 |---|---|
 | ![Admin Panel](./img/a17.png) | ![Light Mode](./img/a18.png) |
 
-| Admin Panel | Light Mode |
+| Administrator Panel | Danger Zone |
 |---|---|
 | ![Admin Panel](./img/a19.png) | ![Light Mode](./img/a20.png) |
 
-| Admin Panel | Light Mode |
+| SaansCare Admin Report | SaansCare GOV Report |
 |---|---|
 | ![Admin Panel](./img/a21.png) | ![Light Mode](./img/a22.png) |
 
@@ -172,7 +172,7 @@ FLUSH PRIVILEGES;
 ```bash
 cd backend
 npm install
-cp .env.example .env    # fill in your DB credentials + (optional) Groq API key
+cp .env    # fill in your DB credentials + (optional) Groq API key
 npm run seed             # seeds ~5,800 historical AQI readings + demo accounts
 npm run dev               # → http://localhost:5000
 ```
