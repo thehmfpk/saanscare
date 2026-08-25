@@ -1,26 +1,22 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Smart%20City%20Hackathon-Lahore%202026-22C55E?style=for-the-badge" alt="hackathon badge" />
+<a href="https://youtu.be/z5LIsK0SFXU?si=NhtpJVr4jv0DgZLB" target="_blank">
+  <img src="https://img.shields.io/badge/Smart%20City%20Hackathon-Lahore%202026-22C55E?style=for-the-badge" alt="Smart City Hackathon Lahore 2026 badge">
+</a>
 
-# 🌬️ SaansCare
+# SaansCare
 
 ### Breathe Better. Live Better.
 
 **An AI-powered air quality monitoring and public health dashboard for Lahore**
 
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Express](https://img.shields.io/badge/Express-4-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](#license)
-
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo](https://youtu.be/z5LIsK0SFXU?si=NhtpJVr4jv0DgZLB) 
 
 </div>
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [About the Project](#-about-the-project)
 - [Problem Statement](#-problem-statement)
@@ -36,19 +32,19 @@
 
 ---
 
-## 🌍 About the Project
+## About the Project
 
 Lahore regularly ranks among the world's most polluted cities, especially during winter smog
 season (November–February). Public AQI numbers exist, but a raw number doesn't tell a parent
-whether it's safe for their child to play outside today — and it doesn't give a health department
+whether it's safe for their child to play outside today, and it doesn't give a health department
 a way to see *where* pollution-driven health burden is actually concentrated.
 
-**SaansCare** closes that gap. It's not just an AQI viewer — it's a role-based platform that
+**SaansCare** closes that gap. It's not just an AQI viewer, it's a role-based platform that
 turns two years of air-quality history into personalized health guidance for residents, city-wide
 risk visibility for government officials, and full platform control for administrators, all
 running against a real, live MySQL database.
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Built for **Smart City Hackathon Lahore 2026** (organized by Code for Pakistan and Civic
 Innovation Lab, in collaboration with Lahore Garrison University) under the **Clean City** theme:
@@ -56,7 +52,7 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
 > **"Linking Air Pollution to Public Health Outcomes"**
 > Stakeholders: Punjab Environmental Protection Agency (EPA) & Primary and Secondary Healthcare Department
 
-## 📸 Screenshots
+##  Screenshots
 
 <!--
   Drop your screenshots into a /screenshots folder in the repo root, then swap the
@@ -76,15 +72,15 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
 |---|---|
 | ![Admin Panel](./screenshots/admin-panel.png) | ![Light Mode](./screenshots/light-mode.png) |
 
-## ✨ Features
+## Features
 
-### 🏠 Resident Portal
+### Resident Portal
 - Live AQI + 2-year historical trend for your district
 - AI-generated 12-month health risk outlook (Groq LLM, with automatic rule-based fallback)
 - Register your vehicle(s) with owner details for emission/maintenance tracking
 - Nearby markets & rest stops ranked by live air quality
 
-### 🏛️ Government / EPA Portal
+### Government / EPA Portal
 - City-wide, anonymized district risk exposure — bar charts, trend comparisons
 - Live monitoring device network — click any device for its activity history & uptime
 - Safe City camera links at real Lahore landmarks, with reference footage
@@ -92,24 +88,24 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
 - Vehicle registry auto-flagged for overdue maintenance, traceable to the owner
 - One-click PDF report generation with a SaansCare letterhead
 
-### 🔐 Administrator Panel
+### Administrator Panel
 - Full account directory — every resident and official, structured and searchable
 - Edit or remove accounts; provision new Gov officials directly (no open registration for that role)
 - Scoped, confirm-gated data resets (Gov data / User data / AI forecasts / everything)
 - Platform-wide statistics and its own PDF report
 
-### 🎨 Platform-wide
+### Platform-wide
 - Full light **and** dark themes, not an afterthought toggle
 - Near-real-time polling with a visible "last updated" indicator
 - Responsive, card-based UI throughout
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React 19 · Vite · Tailwind CSS · React Router · Chart.js · Leaflet · jsPDF · Lucide Icons
 **Backend:** Node.js · Express · Sequelize ORM · MySQL · JWT Auth · bcrypt
 **AI:** Groq LLM (`openai/gpt-oss-120b`) for narrative health-risk forecasts
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -147,7 +143,7 @@ npm install
 npm run dev                # → http://localhost:5173
 ```
 
-## 🔑 Demo Accounts
+## Demo Accounts
 
 | Role | Email | Password | How to reach it |
 |---|---|---|---|
@@ -157,7 +153,7 @@ npm run dev                # → http://localhost:5173
 
 > Gov and Admin accounts are never publicly registerable — provisioned via seeding or the Admin panel only.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 saanscare/
@@ -180,14 +176,14 @@ saanscare/
 └── README.md
 ```
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Live ingestion job against Punjab EPA's public AQI feed (currently seeded historical data)
 - [ ] Official Safe City camera integration (currently reference footage, clearly labeled)
 - [ ] Production deployment (Vercel + Render + hosted MySQL)
 - [ ] SMS/push alerts for hazardous AQI thresholds
 
-## 👥 Team
+## Team
 
 <div align="center">
 
@@ -203,7 +199,7 @@ saanscare/
 Built for **Smart City Hackathon Lahore 2026**, organized by Code for Pakistan and Civic
 Innovation Lab, in collaboration with Lahore Garrison University.
 
-## 📄 License
+## License
 
 Distributed under the MIT License.
 
