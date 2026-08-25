@@ -25,22 +25,6 @@
 
 ---
 
-## Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Problem Statement](#-problem-statement)
-- [Screenshots](#Screenshots)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Demo Accounts](#-demo-accounts)
-- [Project Structure](#-project-structure)
-- [Roadmap](#-roadmap)
-- [Team](#-team)
-- [License](#-license)
-
----
-
 ## About the Project
 
 Lahore regularly ranks among the world's most polluted cities, especially during winter smog
