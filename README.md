@@ -29,7 +29,7 @@
 
 - [About the Project](#-about-the-project)
 - [Problem Statement](#-problem-statement)
-- [Screenshots](#-screenshots)
+- [Screenshots](#Screenshots)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
