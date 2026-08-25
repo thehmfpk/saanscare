@@ -73,31 +73,31 @@ Innovation Lab, in collaboration with Lahore Garrison University) under the **Cl
 |---|---|
 | ![Landing](./img/a1.png) | ![Resident Dashboard](./img/a2.png) |
 
-| Gov / EPA Dashboard | AI-Predicted Forecast |
+| Features | Explore |
 |---|---|
 | ![Gov Dashboard](./img/a3.png) | ![AI Forecast](./img/a4.png) |
 
-| Admin Panel | Light Mode |
+| Register / Login | GOV / EPA View |
 |---|---|
 | ![Admin Panel](./img/a5.png) | ![Light Mode](./img/a6.png) |
 
-| Admin Panel | Light Mode |
+| AQI by District - Comparison | District Trend & AI Forecast |
 |---|---|
 | ![Admin Panel](./img/a7.png) | ![Light Mode](./img/a8.png) |
 
-| Admin Panel | Light Mode |
+| Live Map - Devices & Safe City Cameras | Monitoring Devices |
 |---|---|
 | ![Admin Panel](./img/a9.png) | ![Light Mode](./img/a10.png) |
 
-| Admin Panel | Light Mode |
+| City-wide Map Tracking | Camera Links - click to view feed |
 |---|---|
 | ![Admin Panel](./img/a11.png) | ![Light Mode](./img/a12.png) |
 
-| Admin Panel | Light Mode |
+| Roads AQI Tracked | All Registered Vehicles - click for details & video |
 |---|---|
 | ![Admin Panel](./img/a13.png) | ![Light Mode](./img/a14.png) |
 
-| Admin Panel | Light Mode |
+| Resident Dashboard | Light Mode |
 |---|---|
 | ![Admin Panel](./img/a15.png) | ![Light Mode](./img/a16.png) |
 
